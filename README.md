@@ -1,3 +1,15 @@
+<h1 align="center">
+  Avocado Agency Website
+</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/license-MIT-%23835afd" alt="License">
+  <img src="https://img.shields.io/badge/forks-MIT-%23835afd" alt="Forks">
+  <img src="https://img.shields.io/badge/stars-MIT-%23835afd" alt="Stars">
+</p>
+
+## 💻 Project
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
