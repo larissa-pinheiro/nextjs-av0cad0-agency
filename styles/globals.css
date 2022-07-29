@@ -22,8 +22,6 @@ a {
   position: absolute;
   z-index: 10000;
   opacity: 0.2;
-  left: -45vh;
-  top: -45vh;
   margin: auto;
 }
 
