@@ -1,9 +1,11 @@
 import styles from "../styles/Intro.module.css";
 import Image from "next/image";
+import Circle from "./Circle.jsx";
 
 function Intro() {
   return (
     <div className={styles.container}>
+      <Circle backgroundColor="#b0ff49" />
       <div className={styles.card}>
         <h1 className={styles.title}>
           <span className={styles.brand}>AV0CAD0 </span>DIGITAL PRODUCT AGENCY
