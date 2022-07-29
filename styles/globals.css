@@ -20,8 +20,11 @@ a {
   width: 100vh;
   border-radius: 50%;
   position: absolute;
-  z-index: 999;
-  opacity: 0.1;
+  z-index: 10000;
+  opacity: 0.2;
+  left: -45vh;
+  top: -45vh;
+  margin: auto;
 }
 
 /* I'll let it here if sometime I want to put it to dark theme
