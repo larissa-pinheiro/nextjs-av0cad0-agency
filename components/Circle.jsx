@@ -1,5 +1,5 @@
-function Circle() {
-  return <div className="circle">Circle</div>;
+function Circle(props) {
+  return <div className="circle" style={{ ...props }} />;
 }
 
 export default Circle;
