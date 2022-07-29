@@ -1,0 +1,29 @@
+.container {
+  height: 75px;
+  background-color: black;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 100px;
+  font-size: 25px;
+}
+
+.list {
+  display: flex;
+}
+
+.listItem {
+  margin-right: 25px;
+  list-style-type: none;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.listItem:hover {
+  color: rgb(151, 151, 151);
+}
+
+.listItem:active {
+  color: rgb(63, 63, 63);
+}
