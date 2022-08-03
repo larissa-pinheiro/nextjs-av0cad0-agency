@@ -8,6 +8,10 @@
   <img src="https://img.shields.io/badge/stars-MIT-%23835afd" alt="Stars">
 </p>
 
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1004504690974801981/1004505621099446353/avocado.png" alt="Avocado Agency Website Print">
+</p>
+
 ## 💻 Project
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
