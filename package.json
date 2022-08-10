@@ -2,6 +2,7 @@
   "name": "agency",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://larissa-pinheiro.github.io/nextjs-av0cad0-agency/",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -9,6 +10,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "gh-pages": "^4.0.0",
+    "gh-pages-deploy": "^0.5.1",
     "next": "12.2.3",
     "react": "18.2.0",
     "react-dom": "18.2.0"
