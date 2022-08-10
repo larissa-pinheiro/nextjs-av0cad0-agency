@@ -25,6 +25,13 @@ a {
   margin: auto;
 }
 
+
+@media screen and (max-width: 480px) {
+  .circle {
+    display: none
+  }
+}
+
 /* I'll let it here if sometime I want to put it to dark theme
 
 @media (prefers-color-scheme: dark) {

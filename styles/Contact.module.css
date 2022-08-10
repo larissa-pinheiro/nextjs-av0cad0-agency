@@ -62,3 +62,13 @@
   transform: scale(0.960);
   transition: 20ms;
 }
+
+@media screen and (max-width: 480px) {
+  .form {
+    width: 100%;
+  }
+
+  .inputS:first-child {
+    margin: 0;
+  }
+}

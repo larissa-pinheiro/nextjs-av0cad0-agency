@@ -76,10 +76,12 @@
 
   .title {
     font-size: 35px;
+    padding-right: 50px;
   }
 
   .button {
     width: 125px;
     height: 55px;
+    margin-right: 50px;
   }
 }
