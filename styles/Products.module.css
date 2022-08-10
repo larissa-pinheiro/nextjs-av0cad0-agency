@@ -1,0 +1,52 @@
+.container {
+  display: flex;
+  padding: 50px;
+}
+
+.cardL {
+  flex: 2;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.cardS {
+  flex: 1;
+}
+
+.imgContainer {
+  width: 30%;
+  margin: 5px;
+  background-color: gray;
+}
+
+.imgContainer:nth-child(3) {
+  border-top-right-radius: 50%;
+  overflow: hidden;
+}
+
+.title {
+  font-size: 50px;
+}
+
+.button {
+  padding: 15px;
+  border: none;
+  background-color: green;
+  color: white;
+  font-size: 16px;
+  border-radius: 10px;
+  margin-top: 20px;
+  cursor: pointer;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.button:hover {
+  opacity: 90%;
+  transition: 200ms;
+}
+
+.button:active {
+  transform: scale(0.960);
+  transition: 20ms;
+}
