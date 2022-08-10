@@ -29,6 +29,7 @@
 .linkText {
   margin-right: 20px;
   text-transform: uppercase;
+  cursor: pointer;
 }
 
 .cardL {
