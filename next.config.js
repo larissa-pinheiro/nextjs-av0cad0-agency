@@ -4,6 +4,8 @@ const nextConfig = {
   swcMinify: true,
   images: {
     domains: ["images.pexels.com"],
+    loader: "akamai",
+    path: "",
   },
 };
 
